@@ -12,7 +12,7 @@ A modern & free Bootstrap 4 admin dashboard template pack. Based on <a href="htt
 
 <p align="center">
 <a href="https://alexbsoft.github.io/win95-dashboard/">
-<img src="assets/demo-preview.gif" width="650" />
+<img src="assets/demo-preview_1.gif" width="650" />
 </a>
 </p>
 
