@@ -21,7 +21,7 @@
   --red: #c4183c;
   --orange: #fb7906;
   --yellow: #ffb400;
-  --green: #17c671;
+  --green: #00a800;
   --teal: #1adba2;
   --cyan: #00b8d8;
   --white: #fff;
@@ -29,7 +29,7 @@
   --gray-dark: #343a40;
   --primary: #007bff;
   --secondary: #5A6169;
-  --success: #17c671;
+  --success: #00a800;
   --info: #00b8d8;
   --warning: #ffb400;
   --danger: #c4183c;
@@ -2207,7 +2207,7 @@ i.material-icons {
 
 .card-footer {
   padding: 1.09375rem 1.875rem;
-  background-color: #fff;
+
   border-top: none; }
   .card-footer:last-child {
     border-radius: 0 0 0.625rem 0.625rem; }
@@ -3725,8 +3725,6 @@ a.text-white:hover, a.text-white:focus {
 a.text-black:hover, a.text-black:focus {
   color: black !important; }
 
-.text-muted {
-  color: #868e96 !important; }
 
 .with-shadows {
   box-shadow: 0 0.46875rem 2.1875rem rgba(90, 97, 105, 0.1), 0 0.9375rem 1.40625rem rgba(90, 97, 105, 0.1), 0 0.25rem 0.53125rem rgba(90, 97, 105, 0.12), 0 0.125rem 0.1875rem rgba(90, 97, 105, 0.1); }
