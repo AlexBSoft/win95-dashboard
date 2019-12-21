@@ -20,17 +20,17 @@
     var boSmallStatsDatasets = [
       {
         backgroundColor: 'rgba(0, 184, 216, 0.1)',
-        borderColor: 'rgb(0, 184, 216)',
+        borderColor: 'rgb(0, 145, 170)',
         data: [1, 2, 1, 3, 5, 4, 7],
       },
       {
         backgroundColor: 'rgba(23,198,113,0.1)',
-        borderColor: 'rgb(23,198,113)',
+        borderColor: 'rgb(40, 141, 92)',
         data: [1, 2, 3, 3, 3, 4, 4]
       },
       {
         backgroundColor: 'rgba(255,180,0,0.1)',
-        borderColor: 'rgb(255,180,0)',
+        borderColor: 'rgb(201, 142, 0)',
         data: [2, 3, 3, 3, 4, 3, 3]
       },
       {

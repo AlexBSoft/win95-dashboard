@@ -263,7 +263,6 @@ NAVBAR
     box-shadow: 1px 1px 0 0 #424242;
     background: silver;
     margin: 0;
-    border: 1px outset #fff;
     min-height: 40px;
     padding: 0 6px;
     color:#212529;
@@ -589,4 +588,20 @@ CUSTOM
 .input-group>.form-95:not(:last-child){
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
+}
+
+.bg-silver{
+    background: silver;
+}
+
+.error__content h2, .error__content h3,.error__content p{
+    color: white;
+}
+.form-95-text{
+    box-shadow: -1px -1px 0 0 #828282;
+    border: 2px inset #d5d5d5;
+}
+
+.toggle-sidebar i{
+    color: #424242;
 }
